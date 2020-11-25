@@ -1,0 +1,23 @@
+{
+  "name": "oidc-verifiable-credential",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/indec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "fs": "0.0.1-security",
+    "nodemon": "^1.19.4",
+    "request": "2.88.0",
+    "uuid": "^8.3.0"
+  }
+}

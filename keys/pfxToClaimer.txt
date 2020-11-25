@@ -1,0 +1,3 @@
+openssl pkcs12 -in i2e_2017.pfx -nocerts -out i2e_2017_new.key -nodes
+
+openssl pkcs12 -in i2e_2017.pfx -nokeys -out i2e_2017_new.cer
